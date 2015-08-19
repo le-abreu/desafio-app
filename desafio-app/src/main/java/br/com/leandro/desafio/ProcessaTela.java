@@ -21,6 +21,7 @@ public class ProcessaTela implements ActionListener {
     ProcessaTela(JButton botao, JTextField text1){
         this.botaoProcessar=botao;
         inputText = text1;
+//        inputText = text1;
     }
 
     public void actionPerformed(ActionEvent evento) {
