@@ -22,7 +22,6 @@ public class Tela extends JFrame {
 
         botaoProcessar.addActionListener(new ProcessaTela(botaoProcessar, inputText));
         add(botaoProcessar);
-        add(botaoProcessar);
     }
     
     public static void main(String[] args) {
