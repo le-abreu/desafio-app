@@ -13,6 +13,7 @@ public class Tela extends JFrame {
     public Tela(String titulo) {
         super(titulo);
         setSize(300,100);
+        setSize(300,100);
         setLocationRelativeTo(null);
         setLayout(new FlowLayout());
         setDefaultCloseOperation(EXIT_ON_CLOSE);
